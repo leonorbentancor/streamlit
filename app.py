@@ -4,6 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
+
 st.title("Análisis Interactivo de Datos con Streamlit")
 from sklearn import datasets
 from sklearn.datasets import fetch_california_housing
